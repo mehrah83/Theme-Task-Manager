@@ -1,0 +1,1 @@
+This is an Theme-Task-Manager Application. You can click on button to check the theme color whether you like light or dark. By adding title and description, when you click on "Add Task" button. Your title and description is shown and when you click on edit, so you can edit your data if there is any mistake in it and you can delete the task if you don't want that.
